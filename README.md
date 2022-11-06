@@ -69,4 +69,6 @@ def delete_address(db:Session, id:int):
 ```
 uvicorn app.main:app --reload
 
+http://localhost:8000/docs
+
 ```
